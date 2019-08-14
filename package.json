@@ -15,6 +15,9 @@
     "prepare": "yarn build",
     "test": "yarn jest"
   },
+  "peerDependencies": {
+    "jest": "^23.0.0"
+  },
   "devDependencies": {
     "@react-native-community/bob": "^0.6.1",
     "@types/jest": "^24.0.17",
