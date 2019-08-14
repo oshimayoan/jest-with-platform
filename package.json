@@ -12,12 +12,17 @@
   ],
   "scripts": {
     "build": "yarn bob build",
-    "prepare": "yarn build"
+    "prepare": "yarn build",
+    "test": "yarn jest"
   },
   "devDependencies": {
     "@react-native-community/bob": "^0.6.1",
+    "@types/jest": "^24.0.17",
     "@types/react-native": "^0.60.4",
+    "jest": "^24.8.0",
+    "react": "^16.9.0",
     "react-native": "^0.60.5",
+    "ts-jest": "^24.0.2",
     "tsconfig-kodefox": "^1.0.1",
     "tslint-config-kodefox": "^1.1.1",
     "typescript": "^3.5.3"
