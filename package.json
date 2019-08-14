@@ -16,6 +16,8 @@
   },
   "devDependencies": {
     "@react-native-community/bob": "^0.6.1",
+    "@types/react-native": "^0.60.4",
+    "react-native": "^0.60.5",
     "tsconfig-kodefox": "^1.0.1",
     "tslint-config-kodefox": "^1.1.1",
     "typescript": "^3.5.3"
