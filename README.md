@@ -1,1 +1,1 @@
-# jest-with-platform · [![CircleCI](https://circleci.com/gh/oshimayoan/jest-with-platform/tree/master.svg?style=svg)](https://circleci.com/gh/oshimayoan/jest-with-platform/tree/master)
+# jest-with-platform · [![CircleCI](https://circleci.com/gh/oshimayoan/jest-with-platform/tree/master.svg?style=svg)](https://circleci.com/gh/oshimayoan/jest-with-platform/tree/master) [![codecov](https://codecov.io/gh/oshimayoan/jest-with-platform/branch/master/graph/badge.svg)](https://codecov.io/gh/oshimayoan/jest-with-platform)
