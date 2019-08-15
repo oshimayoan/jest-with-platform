@@ -1,6 +1,6 @@
 {
   "name": "jest-with-platform",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Jest helper for running a test on the chosen platform",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
