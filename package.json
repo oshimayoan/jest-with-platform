@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Jest helper for running a test on the chosen platform",
   "main": "lib/module/index.js",
-  "types": "lib/typescript/src/index.d.ts",
+  "types": "lib/typescript/index.d.ts",
   "repository": "https://github.com/oshimayoan/jest-with-platform.git",
   "author": "@oshimayoan",
   "license": "MIT",
