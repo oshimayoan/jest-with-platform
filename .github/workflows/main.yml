@@ -17,9 +17,9 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '8.x'
+      - run: yarn install
+      - run: yarn test
       - uses: codecov/codecov-action@v1.0.2
         with:
           token: ${{secrets.CODECOV_TOKEN}}
           file: ./coverage/clover.xml
-      - run: yarn install
-      - run: yarn test
