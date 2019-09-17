@@ -16,7 +16,7 @@
   "scripts": {
     "build": "yarn bob build",
     "prepare": "yarn build",
-    "test": "yarn jest",
+    "test": "yarn jest --coverage",
     "release": "release-it"
   },
   "peerDependencies": {
